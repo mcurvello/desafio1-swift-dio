@@ -29,7 +29,7 @@ import UIKit
 let constantName = "Steve"
 
 // Definir uma variável do tipo String opcional com o valor inicial "Jobs"
-var optionalName: String? = "Jobs"
+var variableName: String? = "Jobs"
 
 // Exibir uma mensagem com interpolação de strings
 print("O nome completo é \(constantName) \(variableName ?? "Wozniak")")
